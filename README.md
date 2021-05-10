@@ -7,7 +7,7 @@
 ## Installation
 
 1. Install tpm/tpm.
-2. Add `set -g @plugin 'ryuta69/elly-tmux'` in your .tmux.conf
+2. Add `set -g @plugin 'ulwlu/elly-tmux'` in your .tmux.conf
 
 ## Thanks
 
